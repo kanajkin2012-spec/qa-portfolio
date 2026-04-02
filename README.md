@@ -53,7 +53,8 @@ This is my learning portfolio with examples of software testing work. Here you c
 ## 📬 Let's Connect
 I'm open to feedback, mentorship, and job opportunities!
 
-| 📧 Email:NikolaiKanaikin.2026@protonmail.com | 📱 Telegram: @Nikolay13ttt | 💼 LinkedIn *coming soon*|
+| 📧 Email:NikolaiKanaikin.2026@protonmail.com and kanajkin.2012@mail.ru
+| 📱 Telegram: @Nikolay13ttt | 💼 LinkedIn *coming soon*|
 
 
 
