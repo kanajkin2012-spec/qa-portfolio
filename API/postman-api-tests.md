@@ -21,4 +21,5 @@ I tested DemoQA API endpoints using Postman to verify different HTTP status code
 {
   "userName": "NewUser2026XYZ",
   "password": "MySecurePass123!"
-![Test Result 200 OK](https://github.com/user-attachments/assets/35f8a25b-97e4-4648-ba74-1169b079efdd)
+}
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/166b04a1-0e88-4080-81f0-5dfbcffb617e" />
